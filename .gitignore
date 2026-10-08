@@ -7,3 +7,7 @@ build
 /run-data
 /src/generated/*
 /bin/
+/.dsh-meow
+/.gradle-home
+/.graphflow
+/graphflow-out
